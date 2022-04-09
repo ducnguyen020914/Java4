@@ -1,0 +1,519 @@
+2022-04-07 21:37:38 INFO  QLTLServlet:77 - Thêm thể loại : ID = 26   Tên : phong 23
+2022-04-07 22:22:27 DEBUG BooleanConverter:353 - Setting default value: false
+2022-04-07 22:22:27 DEBUG BooleanConverter:140 - Converting 'Boolean' value 'false' to type 'Boolean'
+2022-04-07 22:22:27 DEBUG BooleanConverter:162 -     No conversion required, value is already a Boolean
+2022-04-07 22:22:27 DEBUG ByteConverter:353 - Setting default value: 0
+2022-04-07 22:22:27 DEBUG ByteConverter:140 - Converting 'Integer' value '0' to type 'Byte'
+2022-04-07 22:22:27 DEBUG ByteConverter:171 -     Converted to Byte value '0'
+2022-04-07 22:22:27 DEBUG CharacterConverter:353 - Setting default value:  
+2022-04-07 22:22:27 DEBUG CharacterConverter:140 - Converting 'Character' value ' ' to type 'Character'
+2022-04-07 22:22:27 DEBUG CharacterConverter:162 -     No conversion required, value is already a Character
+2022-04-07 22:22:27 DEBUG DoubleConverter:353 - Setting default value: 0
+2022-04-07 22:22:27 DEBUG DoubleConverter:140 - Converting 'Integer' value '0' to type 'Double'
+2022-04-07 22:22:27 DEBUG DoubleConverter:171 -     Converted to Double value '0.0'
+2022-04-07 22:22:27 DEBUG FloatConverter:353 - Setting default value: 0
+2022-04-07 22:22:27 DEBUG FloatConverter:140 - Converting 'Integer' value '0' to type 'Float'
+2022-04-07 22:22:27 DEBUG FloatConverter:171 -     Converted to Float value '0.0'
+2022-04-07 22:22:27 DEBUG IntegerConverter:353 - Setting default value: 0
+2022-04-07 22:22:27 DEBUG IntegerConverter:140 - Converting 'Integer' value '0' to type 'Integer'
+2022-04-07 22:22:27 DEBUG IntegerConverter:162 -     No conversion required, value is already a Integer
+2022-04-07 22:22:27 DEBUG LongConverter:353 - Setting default value: 0
+2022-04-07 22:22:27 DEBUG LongConverter:140 - Converting 'Integer' value '0' to type 'Long'
+2022-04-07 22:22:27 DEBUG LongConverter:171 -     Converted to Long value '0'
+2022-04-07 22:22:27 DEBUG ShortConverter:353 - Setting default value: 0
+2022-04-07 22:22:27 DEBUG ShortConverter:140 - Converting 'Integer' value '0' to type 'Short'
+2022-04-07 22:22:27 DEBUG ShortConverter:171 -     Converted to Short value '0'
+2022-04-07 22:22:27 DEBUG BigDecimalConverter:353 - Setting default value: 0.0
+2022-04-07 22:22:27 DEBUG BigDecimalConverter:140 - Converting 'BigDecimal' value '0.0' to type 'BigDecimal'
+2022-04-07 22:22:27 DEBUG BigDecimalConverter:162 -     No conversion required, value is already a BigDecimal
+2022-04-07 22:22:27 DEBUG BigIntegerConverter:353 - Setting default value: 0
+2022-04-07 22:22:27 DEBUG BigIntegerConverter:140 - Converting 'BigInteger' value '0' to type 'BigInteger'
+2022-04-07 22:22:27 DEBUG BigIntegerConverter:162 -     No conversion required, value is already a BigInteger
+2022-04-07 22:22:27 DEBUG BooleanConverter:353 - Setting default value: false
+2022-04-07 22:22:27 DEBUG BooleanConverter:140 - Converting 'Boolean' value 'false' to type 'Boolean'
+2022-04-07 22:22:27 DEBUG BooleanConverter:162 -     No conversion required, value is already a Boolean
+2022-04-07 22:22:27 DEBUG ByteConverter:353 - Setting default value: 0
+2022-04-07 22:22:27 DEBUG ByteConverter:140 - Converting 'Integer' value '0' to type 'Byte'
+2022-04-07 22:22:27 DEBUG ByteConverter:171 -     Converted to Byte value '0'
+2022-04-07 22:22:27 DEBUG CharacterConverter:353 - Setting default value:  
+2022-04-07 22:22:27 DEBUG CharacterConverter:140 - Converting 'Character' value ' ' to type 'Character'
+2022-04-07 22:22:27 DEBUG CharacterConverter:162 -     No conversion required, value is already a Character
+2022-04-07 22:22:27 DEBUG DoubleConverter:353 - Setting default value: 0
+2022-04-07 22:22:27 DEBUG DoubleConverter:140 - Converting 'Integer' value '0' to type 'Double'
+2022-04-07 22:22:27 DEBUG DoubleConverter:171 -     Converted to Double value '0.0'
+2022-04-07 22:22:27 DEBUG FloatConverter:353 - Setting default value: 0
+2022-04-07 22:22:27 DEBUG FloatConverter:140 - Converting 'Integer' value '0' to type 'Float'
+2022-04-07 22:22:27 DEBUG FloatConverter:171 -     Converted to Float value '0.0'
+2022-04-07 22:22:27 DEBUG IntegerConverter:353 - Setting default value: 0
+2022-04-07 22:22:27 DEBUG IntegerConverter:140 - Converting 'Integer' value '0' to type 'Integer'
+2022-04-07 22:22:27 DEBUG IntegerConverter:162 -     No conversion required, value is already a Integer
+2022-04-07 22:22:27 DEBUG LongConverter:353 - Setting default value: 0
+2022-04-07 22:22:27 DEBUG LongConverter:140 - Converting 'Integer' value '0' to type 'Long'
+2022-04-07 22:22:27 DEBUG LongConverter:171 -     Converted to Long value '0'
+2022-04-07 22:22:27 DEBUG ShortConverter:353 - Setting default value: 0
+2022-04-07 22:22:27 DEBUG ShortConverter:140 - Converting 'Integer' value '0' to type 'Short'
+2022-04-07 22:22:27 DEBUG ShortConverter:171 -     Converted to Short value '0'
+2022-04-07 22:22:27 DEBUG StringConverter:353 - Setting default value: 
+2022-04-07 22:22:27 DEBUG StringConverter:140 - Converting 'String' value '' to type 'String'
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Z@341be71c
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'boolean[]' value '[Z@341be71c' to type 'boolean[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a boolean[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [B@537eaf42
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'byte[]' value '[B@537eaf42' to type 'byte[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a byte[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [C@6b5d8242
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'char[]' value '[C@6b5d8242' to type 'char[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a char[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [D@ff0495b
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'double[]' value '[D@ff0495b' to type 'double[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a double[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [F@64b86cbe
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'float[]' value '[F@64b86cbe' to type 'float[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a float[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [I@429adbd4
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'int[]' value '[I@429adbd4' to type 'int[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a int[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [J@45520e57
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'long[]' value '[J@45520e57' to type 'long[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a long[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [S@48653d37
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'short[]' value '[S@48653d37' to type 'short[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a short[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.math.BigDecimal;@6f1f7519
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'BigDecimal[]' value '[Ljava.math.BigDecimal;@6f1f7519' to type 'BigDecimal[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a BigDecimal[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.math.BigInteger;@2ebacecd
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'BigInteger[]' value '[Ljava.math.BigInteger;@2ebacecd' to type 'BigInteger[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a BigInteger[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Boolean;@5bf4c1e6
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'Boolean[]' value '[Ljava.lang.Boolean;@5bf4c1e6' to type 'Boolean[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a Boolean[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Byte;@22b42109
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'Byte[]' value '[Ljava.lang.Byte;@22b42109' to type 'Byte[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a Byte[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Character;@2e01f502
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'Character[]' value '[Ljava.lang.Character;@2e01f502' to type 'Character[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a Character[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Double;@75677a9b
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'Double[]' value '[Ljava.lang.Double;@75677a9b' to type 'Double[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a Double[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Float;@38afcacc
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'Float[]' value '[Ljava.lang.Float;@38afcacc' to type 'Float[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a Float[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Integer;@45b03d08
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'Integer[]' value '[Ljava.lang.Integer;@45b03d08' to type 'Integer[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a Integer[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Long;@601a47cc
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'Long[]' value '[Ljava.lang.Long;@601a47cc' to type 'Long[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a Long[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Short;@4460d658
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'Short[]' value '[Ljava.lang.Short;@4460d658' to type 'Short[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a Short[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.String;@32eaf845
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'String[]' value '[Ljava.lang.String;@32eaf845' to type 'String[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a String[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Class;@3c84dee1
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'Class[]' value '[Ljava.lang.Class;@3c84dee1' to type 'Class[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a Class[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.util.Date;@7e140d3f
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'Date[]' value '[Ljava.util.Date;@7e140d3f' to type 'Date[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a Date[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.util.Calendar;@7c9fbb10
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'Calendar[]' value '[Ljava.util.Calendar;@7c9fbb10' to type 'Calendar[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a Calendar[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.io.File;@385585b0
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'java.io.File[]' value '[Ljava.io.File;@385585b0' to type 'java.io.File[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a java.io.File[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.sql.Date;@32cf8777
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'java.sql.Date[]' value '[Ljava.sql.Date;@32cf8777' to type 'java.sql.Date[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a java.sql.Date[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.sql.Time;@708e3a02
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'java.sql.Time[]' value '[Ljava.sql.Time;@708e3a02' to type 'java.sql.Time[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a java.sql.Time[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.sql.Timestamp;@42a88b61
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'java.sql.Timestamp[]' value '[Ljava.sql.Timestamp;@42a88b61' to type 'java.sql.Timestamp[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a java.sql.Timestamp[]
+2022-04-07 22:22:27 DEBUG ArrayConverter:353 - Setting default value: [Ljava.net.URL;@353a5928
+2022-04-07 22:22:27 DEBUG ArrayConverter:140 - Converting 'java.net.URL[]' value '[Ljava.net.URL;@353a5928' to type 'java.net.URL[]'
+2022-04-07 22:22:27 DEBUG ArrayConverter:162 -     No conversion required, value is already a java.net.URL[]
+2022-04-07 22:22:27 DEBUG BeanUtils:810 - BeanUtils.populate(entity.User@2decb6d3, org.apache.catalina.util.ParameterMap@33298284)
+2022-04-07 22:22:27 DEBUG ConvertUtils:481 - Convert string 'thinh' to class 'java.lang.String'
+2022-04-07 22:22:27 DEBUG StringConverter:140 - Converting 'String' value 'thinh' to type 'String'
+2022-04-07 22:22:27 DEBUG ConvertUtils:481 - Convert string 'thinh@gmail.com' to class 'java.lang.String'
+2022-04-07 22:22:27 DEBUG StringConverter:140 - Converting 'String' value 'thinh@gmail.com' to type 'String'
+2022-04-07 22:22:27 DEBUG ConvertUtils:481 - Convert string '12345' to class 'java.lang.String'
+2022-04-07 22:22:27 DEBUG StringConverter:140 - Converting 'String' value '12345' to type 'String'
+2022-04-07 22:22:27 DEBUG ConvertUtils:481 - Convert string 'HN' to class 'java.lang.String'
+2022-04-07 22:22:27 DEBUG StringConverter:140 - Converting 'String' value 'HN' to type 'String'
+2022-04-07 22:22:27 DEBUG ConvertUtils:481 - Convert string '09858403632' to class 'java.lang.String'
+2022-04-07 22:22:27 DEBUG StringConverter:140 - Converting 'String' value '09858403632' to type 'String'
+2022-04-07 22:22:27 DEBUG ConvertUtils:481 - Convert string 'false' to class 'boolean'
+2022-04-07 22:22:27 DEBUG BooleanConverter:140 - Converting 'String' value 'false' to type 'Boolean'
+2022-04-07 22:22:27 DEBUG BooleanConverter:171 -     Converted to Boolean value 'false'
+2022-04-07 22:22:27 DEBUG BeanUtils:810 - BeanUtils.populate(entity.User@31344d6b, org.apache.catalina.util.ParameterMap@33298284)
+2022-04-07 22:22:27 DEBUG ConvertUtils:481 - Convert string 'thinh' to class 'java.lang.String'
+2022-04-07 22:22:27 DEBUG StringConverter:140 - Converting 'String' value 'thinh' to type 'String'
+2022-04-07 22:22:27 DEBUG ConvertUtils:481 - Convert string 'thinh@gmail.com' to class 'java.lang.String'
+2022-04-07 22:22:27 DEBUG StringConverter:140 - Converting 'String' value 'thinh@gmail.com' to type 'String'
+2022-04-07 22:22:27 DEBUG ConvertUtils:481 - Convert string '12345' to class 'java.lang.String'
+2022-04-07 22:22:27 DEBUG StringConverter:140 - Converting 'String' value '12345' to type 'String'
+2022-04-07 22:22:27 DEBUG ConvertUtils:481 - Convert string 'HN' to class 'java.lang.String'
+2022-04-07 22:22:27 DEBUG StringConverter:140 - Converting 'String' value 'HN' to type 'String'
+2022-04-07 22:22:27 DEBUG ConvertUtils:481 - Convert string '09858403632' to class 'java.lang.String'
+2022-04-07 22:22:27 DEBUG StringConverter:140 - Converting 'String' value '09858403632' to type 'String'
+2022-04-07 22:22:27 DEBUG ConvertUtils:481 - Convert string 'false' to class 'boolean'
+2022-04-07 22:22:27 DEBUG BooleanConverter:140 - Converting 'String' value 'false' to type 'Boolean'
+2022-04-07 22:22:27 DEBUG BooleanConverter:171 -     Converted to Boolean value 'false'
+2022-04-07 22:22:37 DEBUG BeanUtils:810 - BeanUtils.populate(entity.User@1913b770, org.apache.catalina.util.ParameterMap@389cbb9a)
+2022-04-07 22:22:37 DEBUG ConvertUtils:481 - Convert string 'Hai' to class 'java.lang.String'
+2022-04-07 22:22:37 DEBUG StringConverter:140 - Converting 'String' value 'Hai' to type 'String'
+2022-04-07 22:22:37 DEBUG ConvertUtils:481 - Convert string '' to class 'java.lang.String'
+2022-04-07 22:22:37 DEBUG StringConverter:140 - Converting 'String' value '' to type 'String'
+2022-04-07 22:22:37 DEBUG ConvertUtils:481 - Convert string '1234' to class 'java.lang.String'
+2022-04-07 22:22:37 DEBUG StringConverter:140 - Converting 'String' value '1234' to type 'String'
+2022-04-07 22:22:37 DEBUG ConvertUtils:481 - Convert string '' to class 'java.lang.String'
+2022-04-07 22:22:37 DEBUG StringConverter:140 - Converting 'String' value '' to type 'String'
+2022-04-07 22:22:37 DEBUG ConvertUtils:481 - Convert string '' to class 'java.lang.String'
+2022-04-07 22:22:37 DEBUG StringConverter:140 - Converting 'String' value '' to type 'String'
+2022-04-07 22:22:37 DEBUG ConvertUtils:481 - Convert string 'false' to class 'boolean'
+2022-04-07 22:22:37 DEBUG BooleanConverter:140 - Converting 'String' value 'false' to type 'Boolean'
+2022-04-07 22:22:37 DEBUG BooleanConverter:171 -     Converted to Boolean value 'false'
+2022-04-07 22:23:05 DEBUG BeanUtils:810 - BeanUtils.populate(entity.User@eb4a536, org.apache.catalina.util.ParameterMap@e3c25f0)
+2022-04-07 22:23:05 DEBUG ConvertUtils:481 - Convert string '54' to class 'int'
+2022-04-07 22:23:05 DEBUG IntegerConverter:140 - Converting 'String' value '54' to type 'Integer'
+2022-04-07 22:23:05 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-07 22:23:05 DEBUG IntegerConverter:171 -     Converted to Integer value '54'
+2022-04-07 22:23:05 DEBUG ConvertUtils:481 - Convert string 'thinh' to class 'java.lang.String'
+2022-04-07 22:23:05 DEBUG StringConverter:140 - Converting 'String' value 'thinh' to type 'String'
+2022-04-07 22:23:05 DEBUG ConvertUtils:481 - Convert string 'thinh@gmail.com' to class 'java.lang.String'
+2022-04-07 22:23:05 DEBUG StringConverter:140 - Converting 'String' value 'thinh@gmail.com' to type 'String'
+2022-04-07 22:23:05 DEBUG ConvertUtils:481 - Convert string 'Ha Noi' to class 'java.lang.String'
+2022-04-07 22:23:05 DEBUG StringConverter:140 - Converting 'String' value 'Ha Noi' to type 'String'
+2022-04-07 22:23:05 DEBUG ConvertUtils:481 - Convert string '09858403632' to class 'java.lang.String'
+2022-04-07 22:23:05 DEBUG StringConverter:140 - Converting 'String' value '09858403632' to type 'String'
+2022-04-07 22:23:05 DEBUG ConvertUtils:481 - Convert string 'false' to class 'boolean'
+2022-04-07 22:23:05 DEBUG BooleanConverter:140 - Converting 'String' value 'false' to type 'Boolean'
+2022-04-07 22:23:05 DEBUG BooleanConverter:171 -     Converted to Boolean value 'false'
+2022-04-07 22:23:05 DEBUG BeanUtils:810 - BeanUtils.populate(entity.User@a10ab70, org.apache.catalina.util.ParameterMap@e3c25f0)
+2022-04-07 22:23:05 DEBUG ConvertUtils:481 - Convert string '54' to class 'int'
+2022-04-07 22:23:05 DEBUG IntegerConverter:140 - Converting 'String' value '54' to type 'Integer'
+2022-04-07 22:23:05 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-07 22:23:05 DEBUG IntegerConverter:171 -     Converted to Integer value '54'
+2022-04-07 22:23:05 DEBUG ConvertUtils:481 - Convert string 'thinh' to class 'java.lang.String'
+2022-04-07 22:23:05 DEBUG StringConverter:140 - Converting 'String' value 'thinh' to type 'String'
+2022-04-07 22:23:05 DEBUG ConvertUtils:481 - Convert string 'thinh@gmail.com' to class 'java.lang.String'
+2022-04-07 22:23:05 DEBUG StringConverter:140 - Converting 'String' value 'thinh@gmail.com' to type 'String'
+2022-04-07 22:23:05 DEBUG ConvertUtils:481 - Convert string 'Ha Noi' to class 'java.lang.String'
+2022-04-07 22:23:05 DEBUG StringConverter:140 - Converting 'String' value 'Ha Noi' to type 'String'
+2022-04-07 22:23:05 DEBUG ConvertUtils:481 - Convert string '09858403632' to class 'java.lang.String'
+2022-04-07 22:23:05 DEBUG StringConverter:140 - Converting 'String' value '09858403632' to type 'String'
+2022-04-07 22:23:05 DEBUG ConvertUtils:481 - Convert string 'false' to class 'boolean'
+2022-04-07 22:23:05 DEBUG BooleanConverter:140 - Converting 'String' value 'false' to type 'Boolean'
+2022-04-07 22:23:05 DEBUG BooleanConverter:171 -     Converted to Boolean value 'false'
+2022-04-07 22:24:11 INFO  QLTLServlet:119 - Xóa thể loại : ID = 26   Tên : phong 23
+2022-04-07 22:24:16 INFO  QLTLServlet:77 - Thêm thể loại : ID = 27   Tên : phong 2
+2022-04-07 22:24:20 INFO  QLTLServlet:100 - Cập nhật thể loại : ID = 27   Tên : phong 23
+2022-04-07 22:29:02 DEBUG BeanUtils:810 - BeanUtils.populate(entity.Product@4175b3ad, org.apache.catalina.util.ParameterMap@72583128)
+2022-04-07 22:29:02 DEBUG ConvertUtils:481 - Convert string '' to class 'java.lang.String'
+2022-04-07 22:29:02 DEBUG StringConverter:140 - Converting 'String' value '' to type 'String'
+2022-04-07 22:29:02 DEBUG ConvertUtils:481 - Convert string '' to class 'int'
+2022-04-07 22:29:02 DEBUG IntegerConverter:140 - Converting 'String' value '' to type 'Integer'
+2022-04-07 22:29:02 DEBUG IntegerConverter:319 -     Using default Integer value '0'
+2022-04-07 22:29:02 DEBUG IntegerConverter:171 -     Converted to Integer value '0'
+2022-04-07 22:29:02 DEBUG ConvertUtils:481 - Convert string '' to class 'int'
+2022-04-07 22:29:02 DEBUG IntegerConverter:140 - Converting 'String' value '' to type 'Integer'
+2022-04-07 22:29:02 DEBUG IntegerConverter:319 -     Using default Integer value '0'
+2022-04-07 22:29:02 DEBUG IntegerConverter:171 -     Converted to Integer value '0'
+2022-04-07 22:29:02 DEBUG ConvertUtils:481 - Convert string '' to class 'java.lang.String'
+2022-04-07 22:29:02 DEBUG StringConverter:140 - Converting 'String' value '' to type 'String'
+2022-04-07 22:29:02 DEBUG ConvertUtils:481 - Convert string '' to class 'java.lang.String'
+2022-04-07 22:29:02 DEBUG StringConverter:140 - Converting 'String' value '' to type 'String'
+2022-04-07 22:29:35 DEBUG BeanUtils:810 - BeanUtils.populate(entity.Product@217b9cf6, org.apache.catalina.util.ParameterMap@e3c25f0)
+2022-04-07 22:29:35 DEBUG ConvertUtils:481 - Convert string 'Ão phÃ´ng 3' to class 'java.lang.String'
+2022-04-07 22:29:35 DEBUG StringConverter:140 - Converting 'String' value 'Ão phÃ´ng 3' to type 'String'
+2022-04-07 22:29:35 DEBUG ConvertUtils:481 - Convert string '12' to class 'int'
+2022-04-07 22:29:35 DEBUG IntegerConverter:140 - Converting 'String' value '12' to type 'Integer'
+2022-04-07 22:29:35 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-07 22:29:35 DEBUG IntegerConverter:171 -     Converted to Integer value '12'
+2022-04-07 22:29:35 DEBUG ConvertUtils:481 - Convert string '14' to class 'int'
+2022-04-07 22:29:35 DEBUG IntegerConverter:140 - Converting 'String' value '14' to type 'Integer'
+2022-04-07 22:29:35 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-07 22:29:35 DEBUG IntegerConverter:171 -     Converted to Integer value '14'
+2022-04-07 22:29:35 DEBUG ConvertUtils:481 - Convert string 'Äen' to class 'java.lang.String'
+2022-04-07 22:29:35 DEBUG StringConverter:140 - Converting 'String' value 'Äen' to type 'String'
+2022-04-07 22:29:35 DEBUG ConvertUtils:481 - Convert string 'M' to class 'java.lang.String'
+2022-04-07 22:29:35 DEBUG StringConverter:140 - Converting 'String' value 'M' to type 'String'
+2022-04-07 22:29:35 DEBUG BeanUtils:810 - BeanUtils.populate(entity.Product@634804e2, org.apache.catalina.util.ParameterMap@e3c25f0)
+2022-04-07 22:29:35 DEBUG ConvertUtils:481 - Convert string 'Ão phÃ´ng 3' to class 'java.lang.String'
+2022-04-07 22:29:35 DEBUG StringConverter:140 - Converting 'String' value 'Ão phÃ´ng 3' to type 'String'
+2022-04-07 22:29:35 DEBUG ConvertUtils:481 - Convert string '12' to class 'int'
+2022-04-07 22:29:35 DEBUG IntegerConverter:140 - Converting 'String' value '12' to type 'Integer'
+2022-04-07 22:29:35 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-07 22:29:35 DEBUG IntegerConverter:171 -     Converted to Integer value '12'
+2022-04-07 22:29:35 DEBUG ConvertUtils:481 - Convert string '14' to class 'int'
+2022-04-07 22:29:35 DEBUG IntegerConverter:140 - Converting 'String' value '14' to type 'Integer'
+2022-04-07 22:29:35 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-07 22:29:35 DEBUG IntegerConverter:171 -     Converted to Integer value '14'
+2022-04-07 22:29:35 DEBUG ConvertUtils:481 - Convert string 'Äen' to class 'java.lang.String'
+2022-04-07 22:29:35 DEBUG StringConverter:140 - Converting 'String' value 'Äen' to type 'String'
+2022-04-07 22:29:35 DEBUG ConvertUtils:481 - Convert string 'M' to class 'java.lang.String'
+2022-04-07 22:29:35 DEBUG StringConverter:140 - Converting 'String' value 'M' to type 'String'
+2022-04-07 22:29:51 DEBUG BeanUtils:810 - BeanUtils.populate(entity.Product@777489de, org.apache.catalina.util.ParameterMap@304fe363)
+2022-04-07 22:29:51 DEBUG ConvertUtils:481 - Convert string '12' to class 'int'
+2022-04-07 22:29:51 DEBUG IntegerConverter:140 - Converting 'String' value '12' to type 'Integer'
+2022-04-07 22:29:51 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-07 22:29:51 DEBUG IntegerConverter:171 -     Converted to Integer value '12'
+2022-04-07 22:29:51 DEBUG ConvertUtils:481 - Convert string 'phong 3' to class 'java.lang.String'
+2022-04-07 22:29:51 DEBUG StringConverter:140 - Converting 'String' value 'phong 3' to type 'String'
+2022-04-07 22:29:51 DEBUG ConvertUtils:481 - Convert string '12' to class 'int'
+2022-04-07 22:29:51 DEBUG IntegerConverter:140 - Converting 'String' value '12' to type 'Integer'
+2022-04-07 22:29:51 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-07 22:29:51 DEBUG IntegerConverter:171 -     Converted to Integer value '12'
+2022-04-07 22:29:51 DEBUG ConvertUtils:481 - Convert string '14' to class 'int'
+2022-04-07 22:29:51 DEBUG IntegerConverter:140 - Converting 'String' value '14' to type 'Integer'
+2022-04-07 22:29:51 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-07 22:29:51 DEBUG IntegerConverter:171 -     Converted to Integer value '14'
+2022-04-07 22:29:51 DEBUG ConvertUtils:481 - Convert string 'ÃÂen' to class 'java.lang.String'
+2022-04-07 22:29:51 DEBUG StringConverter:140 - Converting 'String' value 'ÃÂen' to type 'String'
+2022-04-07 22:29:51 DEBUG ConvertUtils:481 - Convert string 'M' to class 'java.lang.String'
+2022-04-07 22:29:51 DEBUG StringConverter:140 - Converting 'String' value 'M' to type 'String'
+2022-04-07 22:30:03 DEBUG BeanUtils:810 - BeanUtils.populate(entity.Product@7f671a8e, org.apache.catalina.util.ParameterMap@304fe363)
+2022-04-07 22:30:03 DEBUG ConvertUtils:481 - Convert string '12' to class 'int'
+2022-04-07 22:30:03 DEBUG IntegerConverter:140 - Converting 'String' value '12' to type 'Integer'
+2022-04-07 22:30:03 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-07 22:30:03 DEBUG IntegerConverter:171 -     Converted to Integer value '12'
+2022-04-07 22:30:03 DEBUG ConvertUtils:481 - Convert string 'phong 3' to class 'java.lang.String'
+2022-04-07 22:30:03 DEBUG StringConverter:140 - Converting 'String' value 'phong 3' to type 'String'
+2022-04-07 22:30:03 DEBUG ConvertUtils:481 - Convert string '12' to class 'int'
+2022-04-07 22:30:03 DEBUG IntegerConverter:140 - Converting 'String' value '12' to type 'Integer'
+2022-04-07 22:30:03 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-07 22:30:03 DEBUG IntegerConverter:171 -     Converted to Integer value '12'
+2022-04-07 22:30:03 DEBUG ConvertUtils:481 - Convert string '14' to class 'int'
+2022-04-07 22:30:03 DEBUG IntegerConverter:140 - Converting 'String' value '14' to type 'Integer'
+2022-04-07 22:30:03 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-07 22:30:03 DEBUG IntegerConverter:171 -     Converted to Integer value '14'
+2022-04-07 22:30:03 DEBUG ConvertUtils:481 - Convert string 'ÃÂÃÂen' to class 'java.lang.String'
+2022-04-07 22:30:03 DEBUG StringConverter:140 - Converting 'String' value 'ÃÂÃÂen' to type 'String'
+2022-04-07 22:30:03 DEBUG ConvertUtils:481 - Convert string 'M' to class 'java.lang.String'
+2022-04-07 22:30:03 DEBUG StringConverter:140 - Converting 'String' value 'M' to type 'String'
+2022-04-08 09:50:01 INFO  QLTLServlet:77 - Thêm thể loại : ID = 28   Tên : phong 2
+2022-04-08 09:51:18 DEBUG BooleanConverter:353 - Setting default value: false
+2022-04-08 09:51:18 DEBUG BooleanConverter:140 - Converting 'Boolean' value 'false' to type 'Boolean'
+2022-04-08 09:51:18 DEBUG BooleanConverter:162 -     No conversion required, value is already a Boolean
+2022-04-08 09:51:18 DEBUG ByteConverter:353 - Setting default value: 0
+2022-04-08 09:51:18 DEBUG ByteConverter:140 - Converting 'Integer' value '0' to type 'Byte'
+2022-04-08 09:51:18 DEBUG ByteConverter:171 -     Converted to Byte value '0'
+2022-04-08 09:51:18 DEBUG CharacterConverter:353 - Setting default value:  
+2022-04-08 09:51:18 DEBUG CharacterConverter:140 - Converting 'Character' value ' ' to type 'Character'
+2022-04-08 09:51:18 DEBUG CharacterConverter:162 -     No conversion required, value is already a Character
+2022-04-08 09:51:18 DEBUG DoubleConverter:353 - Setting default value: 0
+2022-04-08 09:51:18 DEBUG DoubleConverter:140 - Converting 'Integer' value '0' to type 'Double'
+2022-04-08 09:51:18 DEBUG DoubleConverter:171 -     Converted to Double value '0.0'
+2022-04-08 09:51:18 DEBUG FloatConverter:353 - Setting default value: 0
+2022-04-08 09:51:18 DEBUG FloatConverter:140 - Converting 'Integer' value '0' to type 'Float'
+2022-04-08 09:51:18 DEBUG FloatConverter:171 -     Converted to Float value '0.0'
+2022-04-08 09:51:18 DEBUG IntegerConverter:353 - Setting default value: 0
+2022-04-08 09:51:18 DEBUG IntegerConverter:140 - Converting 'Integer' value '0' to type 'Integer'
+2022-04-08 09:51:18 DEBUG IntegerConverter:162 -     No conversion required, value is already a Integer
+2022-04-08 09:51:18 DEBUG LongConverter:353 - Setting default value: 0
+2022-04-08 09:51:18 DEBUG LongConverter:140 - Converting 'Integer' value '0' to type 'Long'
+2022-04-08 09:51:18 DEBUG LongConverter:171 -     Converted to Long value '0'
+2022-04-08 09:51:18 DEBUG ShortConverter:353 - Setting default value: 0
+2022-04-08 09:51:18 DEBUG ShortConverter:140 - Converting 'Integer' value '0' to type 'Short'
+2022-04-08 09:51:18 DEBUG ShortConverter:171 -     Converted to Short value '0'
+2022-04-08 09:51:18 DEBUG BigDecimalConverter:353 - Setting default value: 0.0
+2022-04-08 09:51:18 DEBUG BigDecimalConverter:140 - Converting 'BigDecimal' value '0.0' to type 'BigDecimal'
+2022-04-08 09:51:18 DEBUG BigDecimalConverter:162 -     No conversion required, value is already a BigDecimal
+2022-04-08 09:51:18 DEBUG BigIntegerConverter:353 - Setting default value: 0
+2022-04-08 09:51:18 DEBUG BigIntegerConverter:140 - Converting 'BigInteger' value '0' to type 'BigInteger'
+2022-04-08 09:51:18 DEBUG BigIntegerConverter:162 -     No conversion required, value is already a BigInteger
+2022-04-08 09:51:18 DEBUG BooleanConverter:353 - Setting default value: false
+2022-04-08 09:51:18 DEBUG BooleanConverter:140 - Converting 'Boolean' value 'false' to type 'Boolean'
+2022-04-08 09:51:18 DEBUG BooleanConverter:162 -     No conversion required, value is already a Boolean
+2022-04-08 09:51:18 DEBUG ByteConverter:353 - Setting default value: 0
+2022-04-08 09:51:18 DEBUG ByteConverter:140 - Converting 'Integer' value '0' to type 'Byte'
+2022-04-08 09:51:18 DEBUG ByteConverter:171 -     Converted to Byte value '0'
+2022-04-08 09:51:18 DEBUG CharacterConverter:353 - Setting default value:  
+2022-04-08 09:51:18 DEBUG CharacterConverter:140 - Converting 'Character' value ' ' to type 'Character'
+2022-04-08 09:51:18 DEBUG CharacterConverter:162 -     No conversion required, value is already a Character
+2022-04-08 09:51:18 DEBUG DoubleConverter:353 - Setting default value: 0
+2022-04-08 09:51:18 DEBUG DoubleConverter:140 - Converting 'Integer' value '0' to type 'Double'
+2022-04-08 09:51:18 DEBUG DoubleConverter:171 -     Converted to Double value '0.0'
+2022-04-08 09:51:18 DEBUG FloatConverter:353 - Setting default value: 0
+2022-04-08 09:51:18 DEBUG FloatConverter:140 - Converting 'Integer' value '0' to type 'Float'
+2022-04-08 09:51:18 DEBUG FloatConverter:171 -     Converted to Float value '0.0'
+2022-04-08 09:51:18 DEBUG IntegerConverter:353 - Setting default value: 0
+2022-04-08 09:51:18 DEBUG IntegerConverter:140 - Converting 'Integer' value '0' to type 'Integer'
+2022-04-08 09:51:18 DEBUG IntegerConverter:162 -     No conversion required, value is already a Integer
+2022-04-08 09:51:18 DEBUG LongConverter:353 - Setting default value: 0
+2022-04-08 09:51:18 DEBUG LongConverter:140 - Converting 'Integer' value '0' to type 'Long'
+2022-04-08 09:51:18 DEBUG LongConverter:171 -     Converted to Long value '0'
+2022-04-08 09:51:18 DEBUG ShortConverter:353 - Setting default value: 0
+2022-04-08 09:51:18 DEBUG ShortConverter:140 - Converting 'Integer' value '0' to type 'Short'
+2022-04-08 09:51:18 DEBUG ShortConverter:171 -     Converted to Short value '0'
+2022-04-08 09:51:18 DEBUG StringConverter:353 - Setting default value: 
+2022-04-08 09:51:18 DEBUG StringConverter:140 - Converting 'String' value '' to type 'String'
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Z@7f26f01d
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'boolean[]' value '[Z@7f26f01d' to type 'boolean[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a boolean[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [B@6d082c1
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'byte[]' value '[B@6d082c1' to type 'byte[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a byte[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [C@22258c90
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'char[]' value '[C@22258c90' to type 'char[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a char[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [D@875c787
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'double[]' value '[D@875c787' to type 'double[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a double[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [F@401b688c
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'float[]' value '[F@401b688c' to type 'float[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a float[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [I@42df2cc4
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'int[]' value '[I@42df2cc4' to type 'int[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a int[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [J@4c106903
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'long[]' value '[J@4c106903' to type 'long[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a long[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [S@6a7fc6f9
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'short[]' value '[S@6a7fc6f9' to type 'short[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a short[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.math.BigDecimal;@71bb8c32
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'BigDecimal[]' value '[Ljava.math.BigDecimal;@71bb8c32' to type 'BigDecimal[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a BigDecimal[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.math.BigInteger;@5ae07e8
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'BigInteger[]' value '[Ljava.math.BigInteger;@5ae07e8' to type 'BigInteger[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a BigInteger[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Boolean;@3c8585ba
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'Boolean[]' value '[Ljava.lang.Boolean;@3c8585ba' to type 'Boolean[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a Boolean[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Byte;@4ae50be7
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'Byte[]' value '[Ljava.lang.Byte;@4ae50be7' to type 'Byte[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a Byte[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Character;@592188cc
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'Character[]' value '[Ljava.lang.Character;@592188cc' to type 'Character[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a Character[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Double;@a1c4996
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'Double[]' value '[Ljava.lang.Double;@a1c4996' to type 'Double[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a Double[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Float;@5d55d311
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'Float[]' value '[Ljava.lang.Float;@5d55d311' to type 'Float[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a Float[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Integer;@7b8d4075
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'Integer[]' value '[Ljava.lang.Integer;@7b8d4075' to type 'Integer[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a Integer[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Long;@3a0fcb44
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'Long[]' value '[Ljava.lang.Long;@3a0fcb44' to type 'Long[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a Long[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Short;@17c2df34
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'Short[]' value '[Ljava.lang.Short;@17c2df34' to type 'Short[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a Short[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.String;@10807d5d
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'String[]' value '[Ljava.lang.String;@10807d5d' to type 'String[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a String[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.lang.Class;@7b7d4016
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'Class[]' value '[Ljava.lang.Class;@7b7d4016' to type 'Class[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a Class[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.util.Date;@7ac71b32
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'Date[]' value '[Ljava.util.Date;@7ac71b32' to type 'Date[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a Date[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.util.Calendar;@333e6c83
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'Calendar[]' value '[Ljava.util.Calendar;@333e6c83' to type 'Calendar[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a Calendar[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.io.File;@600e76f1
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'java.io.File[]' value '[Ljava.io.File;@600e76f1' to type 'java.io.File[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a java.io.File[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.sql.Date;@3c752956
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'java.sql.Date[]' value '[Ljava.sql.Date;@3c752956' to type 'java.sql.Date[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a java.sql.Date[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.sql.Time;@1a00e517
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'java.sql.Time[]' value '[Ljava.sql.Time;@1a00e517' to type 'java.sql.Time[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a java.sql.Time[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.sql.Timestamp;@b800599
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'java.sql.Timestamp[]' value '[Ljava.sql.Timestamp;@b800599' to type 'java.sql.Timestamp[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a java.sql.Timestamp[]
+2022-04-08 09:51:18 DEBUG ArrayConverter:353 - Setting default value: [Ljava.net.URL;@4a5a03a8
+2022-04-08 09:51:18 DEBUG ArrayConverter:140 - Converting 'java.net.URL[]' value '[Ljava.net.URL;@4a5a03a8' to type 'java.net.URL[]'
+2022-04-08 09:51:18 DEBUG ArrayConverter:162 -     No conversion required, value is already a java.net.URL[]
+2022-04-08 09:51:18 DEBUG BeanUtils:810 - BeanUtils.populate(entity.Product@3918eb8b, org.apache.catalina.util.ParameterMap@535f4f0a)
+2022-04-08 09:51:18 DEBUG ConvertUtils:481 - Convert string '1' to class 'int'
+2022-04-08 09:51:18 DEBUG IntegerConverter:140 - Converting 'String' value '1' to type 'Integer'
+2022-04-08 09:51:18 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-08 09:51:18 DEBUG IntegerConverter:171 -     Converted to Integer value '1'
+2022-04-08 09:51:18 DEBUG ConvertUtils:481 - Convert string 'the thao' to class 'java.lang.String'
+2022-04-08 09:51:18 DEBUG StringConverter:140 - Converting 'String' value 'the thao' to type 'String'
+2022-04-08 09:51:18 DEBUG ConvertUtils:481 - Convert string '20' to class 'int'
+2022-04-08 09:51:18 DEBUG IntegerConverter:140 - Converting 'String' value '20' to type 'Integer'
+2022-04-08 09:51:18 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-08 09:51:18 DEBUG IntegerConverter:171 -     Converted to Integer value '20'
+2022-04-08 09:51:18 DEBUG ConvertUtils:481 - Convert string '50000' to class 'int'
+2022-04-08 09:51:18 DEBUG IntegerConverter:140 - Converting 'String' value '50000' to type 'Integer'
+2022-04-08 09:51:18 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-08 09:51:18 DEBUG IntegerConverter:171 -     Converted to Integer value '50000'
+2022-04-08 09:51:18 DEBUG ConvertUtils:481 - Convert string 'Xanh' to class 'java.lang.String'
+2022-04-08 09:51:18 DEBUG StringConverter:140 - Converting 'String' value 'Xanh' to type 'String'
+2022-04-08 09:51:18 DEBUG ConvertUtils:481 - Convert string 'L' to class 'java.lang.String'
+2022-04-08 09:51:18 DEBUG StringConverter:140 - Converting 'String' value 'L' to type 'String'
+2022-04-08 09:51:25 DEBUG BeanUtils:810 - BeanUtils.populate(entity.Product@746c447e, org.apache.catalina.util.ParameterMap@25ce7194)
+2022-04-08 09:51:25 DEBUG ConvertUtils:481 - Convert string '1' to class 'int'
+2022-04-08 09:51:25 DEBUG IntegerConverter:140 - Converting 'String' value '1' to type 'Integer'
+2022-04-08 09:51:25 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-08 09:51:25 DEBUG IntegerConverter:171 -     Converted to Integer value '1'
+2022-04-08 09:51:25 DEBUG ConvertUtils:481 - Convert string 'the thao' to class 'java.lang.String'
+2022-04-08 09:51:25 DEBUG StringConverter:140 - Converting 'String' value 'the thao' to type 'String'
+2022-04-08 09:51:25 DEBUG ConvertUtils:481 - Convert string '20' to class 'int'
+2022-04-08 09:51:25 DEBUG IntegerConverter:140 - Converting 'String' value '20' to type 'Integer'
+2022-04-08 09:51:25 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-08 09:51:25 DEBUG IntegerConverter:171 -     Converted to Integer value '20'
+2022-04-08 09:51:25 DEBUG ConvertUtils:481 - Convert string '50000' to class 'int'
+2022-04-08 09:51:25 DEBUG IntegerConverter:140 - Converting 'String' value '50000' to type 'Integer'
+2022-04-08 09:51:25 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-08 09:51:25 DEBUG IntegerConverter:171 -     Converted to Integer value '50000'
+2022-04-08 09:51:25 DEBUG ConvertUtils:481 - Convert string 'Xanh' to class 'java.lang.String'
+2022-04-08 09:51:25 DEBUG StringConverter:140 - Converting 'String' value 'Xanh' to type 'String'
+2022-04-08 09:51:25 DEBUG ConvertUtils:481 - Convert string 'L' to class 'java.lang.String'
+2022-04-08 09:51:25 DEBUG StringConverter:140 - Converting 'String' value 'L' to type 'String'
+2022-04-08 09:51:41 DEBUG BeanUtils:810 - BeanUtils.populate(entity.Product@4e85b17f, org.apache.catalina.util.ParameterMap@14e401b6)
+2022-04-08 09:51:41 DEBUG ConvertUtils:481 - Convert string 'ao quan' to class 'java.lang.String'
+2022-04-08 09:51:41 DEBUG StringConverter:140 - Converting 'String' value 'ao quan' to type 'String'
+2022-04-08 09:51:41 DEBUG ConvertUtils:481 - Convert string '12' to class 'int'
+2022-04-08 09:51:41 DEBUG IntegerConverter:140 - Converting 'String' value '12' to type 'Integer'
+2022-04-08 09:51:41 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-08 09:51:41 DEBUG IntegerConverter:171 -     Converted to Integer value '12'
+2022-04-08 09:51:41 DEBUG ConvertUtils:481 - Convert string '12' to class 'int'
+2022-04-08 09:51:41 DEBUG IntegerConverter:140 - Converting 'String' value '12' to type 'Integer'
+2022-04-08 09:51:41 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-08 09:51:41 DEBUG IntegerConverter:171 -     Converted to Integer value '12'
+2022-04-08 09:51:41 DEBUG ConvertUtils:481 - Convert string '' to class 'java.lang.String'
+2022-04-08 09:51:41 DEBUG StringConverter:140 - Converting 'String' value '' to type 'String'
+2022-04-08 09:51:41 DEBUG ConvertUtils:481 - Convert string '' to class 'java.lang.String'
+2022-04-08 09:51:41 DEBUG StringConverter:140 - Converting 'String' value '' to type 'String'
+2022-04-08 09:51:57 DEBUG BeanUtils:810 - BeanUtils.populate(entity.Product@5c06a37a, org.apache.catalina.util.ParameterMap@25ce7194)
+2022-04-08 09:51:57 DEBUG ConvertUtils:481 - Convert string 'Ão phÃ´ng2' to class 'java.lang.String'
+2022-04-08 09:51:57 DEBUG StringConverter:140 - Converting 'String' value 'Ão phÃ´ng2' to type 'String'
+2022-04-08 09:51:57 DEBUG ConvertUtils:481 - Convert string '12' to class 'int'
+2022-04-08 09:51:57 DEBUG IntegerConverter:140 - Converting 'String' value '12' to type 'Integer'
+2022-04-08 09:51:57 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-08 09:51:57 DEBUG IntegerConverter:171 -     Converted to Integer value '12'
+2022-04-08 09:51:57 DEBUG ConvertUtils:481 - Convert string '900000' to class 'int'
+2022-04-08 09:51:57 DEBUG IntegerConverter:140 - Converting 'String' value '900000' to type 'Integer'
+2022-04-08 09:51:57 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-08 09:51:57 DEBUG IntegerConverter:171 -     Converted to Integer value '900000'
+2022-04-08 09:51:57 DEBUG ConvertUtils:481 - Convert string 'den' to class 'java.lang.String'
+2022-04-08 09:51:57 DEBUG StringConverter:140 - Converting 'String' value 'den' to type 'String'
+2022-04-08 09:51:57 DEBUG ConvertUtils:481 - Convert string 'L' to class 'java.lang.String'
+2022-04-08 09:51:57 DEBUG StringConverter:140 - Converting 'String' value 'L' to type 'String'
+2022-04-08 09:51:57 DEBUG BeanUtils:810 - BeanUtils.populate(entity.Product@2f12d19c, org.apache.catalina.util.ParameterMap@25ce7194)
+2022-04-08 09:51:57 DEBUG ConvertUtils:481 - Convert string 'Ão phÃ´ng2' to class 'java.lang.String'
+2022-04-08 09:51:57 DEBUG StringConverter:140 - Converting 'String' value 'Ão phÃ´ng2' to type 'String'
+2022-04-08 09:51:57 DEBUG ConvertUtils:481 - Convert string '12' to class 'int'
+2022-04-08 09:51:57 DEBUG IntegerConverter:140 - Converting 'String' value '12' to type 'Integer'
+2022-04-08 09:51:57 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-08 09:51:57 DEBUG IntegerConverter:171 -     Converted to Integer value '12'
+2022-04-08 09:51:57 DEBUG ConvertUtils:481 - Convert string '900000' to class 'int'
+2022-04-08 09:51:57 DEBUG IntegerConverter:140 - Converting 'String' value '900000' to type 'Integer'
+2022-04-08 09:51:57 DEBUG IntegerConverter:269 -     No NumberFormat, using default conversion
+2022-04-08 09:51:57 DEBUG IntegerConverter:171 -     Converted to Integer value '900000'
+2022-04-08 09:51:57 DEBUG ConvertUtils:481 - Convert string 'den' to class 'java.lang.String'
+2022-04-08 09:51:57 DEBUG StringConverter:140 - Converting 'String' value 'den' to type 'String'
+2022-04-08 09:51:57 DEBUG ConvertUtils:481 - Convert string 'L' to class 'java.lang.String'
+2022-04-08 09:51:57 DEBUG StringConverter:140 - Converting 'String' value 'L' to type 'String'
